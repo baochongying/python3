@@ -8,3 +8,7 @@ class Student():
 
 
 Student().eat()
+
+
+def m5():
+    pass
