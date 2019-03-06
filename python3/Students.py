@@ -12,3 +12,12 @@ Student().eat()
 
 def m5():
     pass
+
+
+def m6():
+    pass
+
+
+baochongying
+last
+code
