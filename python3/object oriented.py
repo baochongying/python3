@@ -13,3 +13,4 @@ Student().study("包崇应", "18")
 
 # friut="apple"
 # print(friut.upper())
+Student().walk("郭文贵", "23")
