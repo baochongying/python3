@@ -10,16 +10,7 @@ class Student():
 Student().eat()
 
 
-def m5():
-    pass
 
-
-def m6():
-    pass
-
-
-def m7():
-    pass
 
 baochongying
 last
