@@ -11,5 +11,5 @@ Student().eat("郭文贵", "68")
 Student().walk("包谷酒","98")
 Student().study("包崇应", "18")
 
-# friut="apple"
-# print(friut.upper())
+friut="apple"
+print(friut.upper())
