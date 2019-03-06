@@ -10,12 +10,5 @@ class Student():
 Student().eat()
 
 
-def m1:
-    pass:
-
-
-
-
-baochongying
-last
-code
+def m5():
+    pass
