@@ -1,3 +1,0 @@
-import father
-
-father.eat()
