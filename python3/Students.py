@@ -1,5 +1,5 @@
 class Student():
-    name = "包崇应"
+    name = "inty"
     age = 40
 
     def study(self):
